@@ -5,7 +5,7 @@ This page to be a example of use CSS GRID to estructure a page like Wikipedia.
 
 ### Used knowledge
 - Html 5
-- CSS 3 
+- CSS 3 (CSS GRID)
 - JavaScript
 
 ### About creator
