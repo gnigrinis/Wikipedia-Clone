@@ -1,7 +1,7 @@
 ## Wikipedia Clone
 
 ### About page
-This page to be a example of use CSS GRID to estructure a page like Wikipedia. 
+This page to be an example of use CSS GRID to structure a page like Wikipedia. 
 
 ### Used knowledge
 - Html 5
